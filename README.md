@@ -26,6 +26,17 @@ Make fishing data collection effortless so anglers can focus on fishing, not for
 
 9-12 months (spans 28 phases of dev-curriculum)
 
+## Development Workflow
+
+This project follows a feature branch workflow:
+
+- `main` — Production-ready code
+- `feature/*` — New features under development
+- `bugfix/*` — Bug fixes
+- `hotfix/*` — Critical production fixes
+
+All features are developed on separate branches and merged to main via pull requests.
+
 ## Author
 
 Jeff Hutting  
