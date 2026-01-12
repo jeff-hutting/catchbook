@@ -1,6 +1,6 @@
 # CatchBook
 
-**Smart fishing diary** that automatically logs your catches using computer vision and weather data.
+**AI-powered fishing journal** that automatically logs your catches using photo-based entry, computer vision species identification, and predictive fishing intelligence.
 
 ## Vision
 
