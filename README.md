@@ -1,6 +1,6 @@
 # CatchBook
 
-AI-powered fishing journal for kayak anglers.
+**AI-powered fishing journal** with phot-based catch logging, automatic species identification, and predictive fishing intelligence.
 
 ## Vision
 
